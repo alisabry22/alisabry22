@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!-- 
+
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate on Open Source Projects
@@ -8,3 +10,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+/>
