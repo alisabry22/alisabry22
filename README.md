@@ -27,12 +27,8 @@
 
 
 <p align="center"> 
-  <samp>
-  
-    <br>
-    「 I am a Flutter Developer from<b>Egypt</b>」
-    </br>
-    </br>
+<samp >
+「 I am a flutter developer from Egypt 」
   </samp>
 </p>
 
